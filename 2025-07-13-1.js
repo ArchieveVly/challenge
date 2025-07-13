@@ -1,12 +1,12 @@
 /**
  * ╔══════════════════════════════════════════════════════════════════════╗
- * ║                          ARRAY FLATTEN UTILITY                                 ║
+ * ║                          ARRAY FLATTEN UTILITY                                ║
  * ╠══════════════════════════════════════════════════════════════════════╣
- * ║ Author: Dave Conco (dconco)                                                   ║
- * ║ Email: [concodave@gmail.com]                                                ║
- * ║ GitHub: [dconco]                                                     ║
- * ║ Date: [2025-07-13]                                                 ║
- * ║ Version: 1.0.0                                                       ║
+ * ║ Author: Dave Conco (dconco)                                                  ║
+ * ║ Email: [concodave@gmail.com]                                                    ║
+ * ║ GitHub: [dconco]                                                             ║
+ * ║ Date: [2025-07-13]                                                           ║
+ * ║ Version: 1.0.0                                                                 ║
  * ╚══════════════════════════════════════════════════════════════════════╝
  * 
  * @fileoverview A recursive array flattening utility that converts nested 
