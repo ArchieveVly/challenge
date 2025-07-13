@@ -50,11 +50,8 @@ function flat(arr) {
    let s = []
    
    arr.forEach((val) => {
-      if (Array.isArray(val)) {
-         s.push(...flat(val))
-      } else {
-         s.push(val)
-      }
+      if (Array.isArray(val)) s.push(...flat(val));
+      else s.push(val);
    })
   
    return s
